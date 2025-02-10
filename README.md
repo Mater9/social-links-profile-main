@@ -89,7 +89,7 @@ I plan to continue refining my **responsive design** techniques and explore more
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mater9]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Mater9))
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ---
