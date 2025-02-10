@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mater9/social-links-profile-main]
-- Live Site URL: [https://mater9.github.io/social-links-profile-main/)
+- Live Site URL: [https://mater9.github.io/social-links-profile-main/]
 
 ---
 
